@@ -1,10 +1,8 @@
 from sklearn.model_selection import train_test_split
 import keras
-from keras.datasets import boston_housing
 from tensorflow.keras.optimizers import RMSprop 
 from keras.callbacks import EarlyStopping  
 from sklearn import preprocessing
-from sklearn.preprocessing import scale, StandardScaler
 from keras.models import Sequential
 from keras.layers import Dense, Activation
 import matplotlib.pyplot as plt
