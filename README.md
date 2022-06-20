@@ -5,4 +5,4 @@ For the inverse kinematic problem by using ANN, I was implemented as below
 2. And then, I upload data to google.colab website
 3. I was trained with the dataset and obtained accuracy for 2dof is 98% .
 4. Finally, I take a random data in test data to predict the position of a robot arm
-For more detail, you should view file 2dof.ipy
+For more detail, you should view file 2dof.ipynb
